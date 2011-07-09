@@ -9,3 +9,5 @@ class C: pass
 class D: pass
 
 class E: pass
+
+class F: pass
