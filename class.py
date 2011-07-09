@@ -7,3 +7,5 @@ class B: pass
 class C: pass
 
 class D: pass
+
+class E: pass
