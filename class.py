@@ -3,3 +3,5 @@ class A:
 		self.name = name
 
 class B: pass
+
+class C: pass
