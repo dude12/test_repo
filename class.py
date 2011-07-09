@@ -1,5 +1,5 @@
 class A:
-	def __init__(self, x):
-		return x
+	def __init__(self, name):
+		self.name = name
 
 class B: pass
